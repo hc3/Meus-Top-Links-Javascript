@@ -2,13 +2,16 @@
 
 - Espero que ajude alguém, vou tentar aqui reunir todos os links que me ajudaram e ainda ajudam a estudar javascript completamente de graça, aqui tem também conteúdos de Java, html, Css, e outros assuntos relacionados a tecnologia sei que existe muito além do que está descrito aqui, mas com esses ai acredito que já é bastante conteúdo.
 
-# FunFunctions -o cara é show de bola muito engraçado e animado gosto muito das aulas desse maluco.
+# FunFunctions 
+<h3>o cara é show de bola muito engraçado e animado gosto muito das aulas desse maluco.</h3>
 [FunFunctions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
-# Update Sem Where -to na esperança dela voltar...
+# Update Sem Where 
+<h3>to na esperança dela voltar...</h3>
 [Update sem Where](https://www.youtube.com/channel/UCZmp5CT7ASVdDkRZMzptLFw)
 
-# WebSchool -na minha opnião é o mais completo pra quem quer aprender JS do zero.
+# WebSchool 
+<h3>na minha opnião é o mais completo pra quem quer aprender JS do zero</h3>
 [Webschool] (https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
 
 # Fabio Vedovelli -o cara manja muito, tem coisa pra caramba no canal então PHP , Javascript , Html...
