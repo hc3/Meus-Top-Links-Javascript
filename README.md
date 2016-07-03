@@ -3,7 +3,7 @@
 - Espero que ajude alguém, vou tentar aqui reunir todos os links que me ajudaram e ainda ajudam a estudar javascript completamente de graça, aqui tem também conteúdos de Java, html, Css, e outros assuntos relacionados a tecnologia sei que existe muito além do que está descrito aqui, mas com esses ai acredito que já é bastante conteúdo.
 
 # FunFunctions 
-<h3>o cara é show de bola muito engraçado e animado gosto muito das aulas desse maluco.</h3>
+<h5>o cara é show de bola muito engraçado e animado gosto muito das aulas desse maluco.</h5>
 [FunFunctions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 # Update Sem Where 
